@@ -9,10 +9,11 @@ e rápida.
 
 O projeto utiliza basicamente a linguagem Python. Através de frameworks nós coletamos,
 persistimos e apresentamos os dados com uma visão mais simples e atualizada.
+Algumas depedências do projeto são: o pacote `PhantomJS` e `geckodriver`
 
 ### Visão geral do projeto
 
-<chart here>
+TODO
 
 ### Contribuindo
 
