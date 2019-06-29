@@ -24,8 +24,8 @@ fork this repository
 git clone http://github.com/<your-username>/todeolho.git
 cd todeolho
 virtualenv --python=python3 --no-site-packages venv
-pip install -r requirements.txt
 source ./venv/bin/activate
+pip install -r requirements.txt
 start coding! ;)
 ```
 
